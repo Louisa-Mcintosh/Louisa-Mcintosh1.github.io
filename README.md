@@ -35,8 +35,8 @@ Here are some of the projects I have worked on:
      
 2. **Sequence Analysis**: 
    - This project focuses on the sequence analysis of genetic data using bioinformatics tools and Python scripting. The workflow includes sequence alignment, visualisation, and analysis of DNA sequences.
-   - [GitHub Repository](https://github.com/Louisa-Mcintosh/Rna-seq-analysis-pipeline.git)
-
+   - [GitHub Repository](https://github.com/Louisa-Mcintosh/Sequence-analysis.git)
+     
 3. **Variant Analysis in WGS Data**:
    - Currently working on variant calling and analysis using GATK on whole-genome sequencing data, followed by visualisation of the findings with R.
    - [GitHub Link](https://github.com/your-repo)
