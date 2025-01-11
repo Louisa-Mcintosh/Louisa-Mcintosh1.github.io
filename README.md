@@ -34,7 +34,7 @@ Here are some of the projects I have worked on:
    - [GitHub Repository](https://github.com/Louisa-Mcintosh/Rna-seq-analysis-pipeline.git)
      
 2. **Sequence Analysis**: 
-   - Built a Python-based pipeline to process and analyse RNA-Seq data. This project involved data quality control, alignment, differential gene expression analysis, and visualisation.
+   - This project focuses on the sequence analysis of genetic data using bioinformatics tools and Python scripting. The workflow includes sequence alignment, visualisation, and analysis of DNA sequences.
    - [GitHub Repository](https://github.com/Louisa-Mcintosh/Rna-seq-analysis-pipeline.git)
 
 3. **Variant Analysis in WGS Data**:
