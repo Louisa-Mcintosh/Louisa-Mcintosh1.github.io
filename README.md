@@ -32,14 +32,17 @@ Here are some of the projects I have worked on:
 1. **RNA-Seq Analysis Pipeline**: 
    - Built a Python-based pipeline to process and analyse RNA-Seq data. This project involved data quality control, alignment, differential gene expression analysis, and visualisation.
    - [GitHub Repository](https://github.com/Louisa-Mcintosh/Rna-seq-analysis-pipeline.git)
+     
+2. **Sequence Analysis**: 
+   - Built a Python-based pipeline to process and analyse RNA-Seq data. This project involved data quality control, alignment, differential gene expression analysis, and visualisation.
+   - [GitHub Repository](https://github.com/Louisa-Mcintosh/Rna-seq-analysis-pipeline.git)
 
-
-2. **Variant Analysis in WGS Data**:
-   - Conducted variant calling and analysis using GATK on whole-genome sequencing data, followed by visualisation of the findings with R.
+3. **Variant Analysis in WGS Data**:
+   - Currently working on variant calling and analysis using GATK on whole-genome sequencing data, followed by visualisation of the findings with R.
    - [GitHub Link](https://github.com/your-repo)
 
-3. **Protein Structure Prediction**:
-   - Utilised machine learning techniques to predict protein structures and analyse their functions and interactions.
+4. **Protein Structure Prediction**:
+   - Currently working Utilising machine learning techniques to predict protein structures and analyse their functions and interactions.
    - [GitHub Link](https://github.com/your-repo)
 
 ## Contact
